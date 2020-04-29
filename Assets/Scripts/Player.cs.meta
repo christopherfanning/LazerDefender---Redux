@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56d426dd635b36825b4e6bbcf4270a8a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - laserPrefab: {fileID: 5763784838469804555, guid: def113e4bb1215700aa6068b8fe54369,
+      type: 3}
+  - playerShootSound: {fileID: 8300000, guid: 5a63dad41438d38088912664d9ca4697, type: 3}
+  - playerDieSound: {fileID: 8300000, guid: 4ac23db2febfa3a4f8b0dba9b358114f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
